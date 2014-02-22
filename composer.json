@@ -1,0 +1,30 @@
+{
+    "name": "beon/whmcs",
+    "description": "",
+    "authors": [
+        {
+            "name": "Mochamad Gufron",
+            "email": "mgufronefendi@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*",
+        "guzzle/guzzle": "~3.7",
+        "jyggen/curl": "*"
+    },
+    "require-dev": {
+        "orchestra/testbench": "2.1.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations",
+            "src/models",
+            "tests/TestCase.php"
+        ],
+        "psr-0": {
+            "Beon\\Whmcs\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
