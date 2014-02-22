@@ -1,0 +1,27 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"ls"
+			],
+			"name": "List"
+		}
+	],
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"backup"
+			],
+			"follow_symlinks": true,
+			"path": "./"
+		}
+	],
+	"settings":
+	{
+		"tab_size": 4
+	}
+}

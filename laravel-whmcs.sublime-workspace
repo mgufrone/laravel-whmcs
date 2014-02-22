@@ -1,0 +1,1474 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"uni",
+				"uniqueness"
+			],
+			[
+				"di",
+				"display_name"
+			],
+			[
+				"serv",
+				"server_name"
+			],
+			[
+				"disk",
+				"diskused"
+			],
+			[
+				"serve",
+				"server"
+			],
+			[
+				"server",
+				"server_ip"
+			],
+			[
+				"get_",
+				"get_server"
+			],
+			[
+				"get",
+				"get_server"
+			],
+			[
+				"list",
+				"list_accounts"
+			],
+			[
+				"valid",
+				"valid_session"
+			],
+			[
+				"acc",
+				"account"
+			],
+			[
+				"ac",
+				"account"
+			],
+			[
+				"acco",
+				"accounts"
+			],
+			[
+				"VIe",
+				"View-make	View-make"
+			],
+			[
+				"inv",
+				"invoice"
+			],
+			[
+				"$promo",
+				"$promotions"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"tblpro",
+				"tblpromotions"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"$appl",
+				"$scope.$apply"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"mysql_in",
+				"mysql_insert_id"
+			],
+			[
+				"mod_ho",
+				"mod_holic_code"
+			],
+			[
+				"$app",
+				"$applies"
+			],
+			[
+				"tblprodu",
+				"tblproducts"
+			],
+			[
+				"exist",
+				"existed"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"promo",
+				"promotions"
+			],
+			[
+				"grou",
+				"groupid"
+			],
+			[
+				"gro",
+				"groupid"
+			],
+			[
+				"invoi",
+				"invoice_details"
+			],
+			[
+				"addon",
+				"addons"
+			],
+			[
+				"domain",
+				"domains"
+			],
+			[
+				"coupo",
+				"coupon_code"
+			],
+			[
+				"pac",
+				"package"
+			],
+			[
+				"group",
+				"groups"
+			],
+			[
+				"client",
+				"clientsdetails"
+			],
+			[
+				"produc",
+				"product_override"
+			],
+			[
+				"invo",
+				"invoice_details"
+			],
+			[
+				"cli",
+				"client_discount"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"clien",
+				"client_discount"
+			],
+			[
+				"Whol",
+				"WholeSale"
+			],
+			[
+				"call_use",
+				"call_user_func_array"
+			],
+			[
+				"Who",
+				"WholeSale"
+			],
+			[
+				"gatewa",
+				"gateways"
+			],
+			[
+				"gate",
+				"gateway"
+			],
+			[
+				"gatew",
+				"gateways"
+			],
+			[
+				"invoice",
+				"invoiceid"
+			],
+			[
+				"cycl",
+				"cycles_name"
+			],
+			[
+				"cy",
+				"cycles"
+			],
+			[
+				"new",
+				"new_password"
+			],
+			[
+				"eror",
+				"error"
+			],
+			[
+				"random",
+				"random_string"
+			],
+			[
+				"shor",
+				"shorten_url"
+			],
+			[
+				"jsn",
+				"json_encode"
+			],
+			[
+				"url",
+				"url_path"
+			],
+			[
+				"resp",
+				"response_type"
+			],
+			[
+				"WHm",
+				"WHMCS"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"whm",
+				"whmcsurl"
+			],
+			[
+				"http_bu",
+				"http_build_query"
+			],
+			[
+				"domain_",
+				"domain_pricing"
+			],
+			[
+				"servi",
+				"serviceid"
+			],
+			[
+				"acti",
+				"active_services"
+			],
+			[
+				"selc",
+				"select_ssl"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"register",
+				"register_domains"
+			],
+			[
+				"rqu",
+				"request_params"
+			],
+			[
+				"requ",
+				"request_params"
+			],
+			[
+				"cycle",
+				"cycle"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"cyc",
+				"cycle"
+			],
+			[
+				"doma",
+				"domains"
+			],
+			[
+				"packa",
+				"packaged"
+			],
+			[
+				"curr",
+				"current_domain"
+			],
+			[
+				"dom",
+				"domains"
+			],
+			[
+				"domin",
+				"domainregister"
+			],
+			[
+				"discou",
+				"discount"
+			],
+			[
+				"product",
+				"product_discount"
+			],
+			[
+				"produ",
+				"product_pricing"
+			],
+			[
+				"disc",
+				"discounts"
+			],
+			[
+				"chane",
+				"change_product"
+			],
+			[
+				"domai",
+				"domains"
+			],
+			[
+				"disco",
+				"discount_type"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"expi",
+				"expire"
+			],
+			[
+				"star",
+				"start_date"
+			],
+			[
+				"pack",
+				"packaged"
+			],
+			[
+				"cou",
+				"coupon_code"
+			],
+			[
+				"fil",
+				"fileUploader"
+			],
+			[
+				"account",
+				"account_number"
+			],
+			[
+				"sub",
+				"submit_valid"
+			],
+			[
+				"reuq",
+				"requested_tld"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"request",
+				"request_params"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"reque",
+				"request_params"
+			],
+			[
+				"filte",
+				"filter_packages"
+			],
+			[
+				"total",
+				"total_addons"
+			],
+			[
+				"packages",
+				"get_packages"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"try",
+				"try_check_domain"
+			],
+			[
+				"gethost",
+				"gethostbyname"
+			],
+			[
+				"login",
+				"login_process"
+			],
+			[
+				"passwo",
+				"password"
+			],
+			[
+				"view",
+				"view_domains"
+			],
+			[
+				"change",
+				"change_product"
+			],
+			[
+				"doman",
+				"domain"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"result",
+				"result_content"
+			],
+			[
+				"simplx",
+				"simplexml_load_string"
+			],
+			[
+				"class",
+				"class_exists"
+			],
+			[
+				"vali",
+				"validate_login"
+			],
+			[
+				"post",
+				"postfields"
+			],
+			[
+				"rq",
+				"request_params"
+			],
+			[
+				"do",
+				"domain"
+			],
+			[
+				"uniq",
+				"unique_code"
+			],
+			[
+				"last",
+				"last_code"
+			],
+			[
+				"last_c",
+				"last_content"
+			],
+			[
+				"week",
+				"weeklyAdmins"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_assoc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"increme",
+				"Snippet: View-incrementRender"
+			],
+			[
+				"Sche",
+				"Snippet: Schema-create"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"respon",
+				"Snippet: Response-json"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"javascr",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"Html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"composer",
+				"Composer: Add Package"
+			],
+			[
+				"compo",
+				"Composer: Self Update"
+			],
+			[
+				"Project",
+				"Project: Add Folder"
+			],
+			[
+				"smart",
+				"Set Syntax: Smarty"
+			],
+			[
+				"Set Syntax: Jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"smarty",
+				"Set Syntax: Smarty"
+			],
+			[
+				"App-bo",
+				"Snippet: App-boot"
+			],
+			[
+				"angula",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"ftp",
+				"FTPSync: Setup FTPSync in this folder"
+			],
+			[
+				"Route-ge",
+				"Snippet: Route-get"
+			],
+			[
+				"Request-get",
+				"Snippet: Request-segment"
+			],
+			[
+				"Request",
+				"Snippet: Request-ajax"
+			],
+			[
+				"App",
+				"Snippet: App-boot"
+			],
+			[
+				"Paginat",
+				"Snippet: Paginator-make"
+			],
+			[
+				"Lang",
+				"Snippet: Lang-choice"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"pa",
+				"Project: Add Folder"
+			],
+			[
+				"bs3-input-te",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"bs3-input-ran",
+				"Snippet: bs3-input-range"
+			],
+			[
+				"bs3-input",
+				"Snippet: bs3-input-url-h"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-form"
+			],
+			[
+				"lara",
+				"Snippet: Yii CHtml::activeRadioButton"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git: log",
+				"Git: Log All"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/CHANGELOG",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/grape-entity-0.3.0/lib/grape-entity.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/models/server.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/servers/index.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/lib/gitlab/backend/shell_env.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/arel-4.0.1/lib/arel/compatibility/wheres.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/capybara-2.1.0/lib/capybara/spec/views/with_html_entities.erb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/models/web_hook.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/script/web",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.gitignore",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.foreman",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/models/ability.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/models/.gitkeep",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/activemodel-4.0.2/lib/active_model/secure_password.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/activemodel-4.0.2/lib/active_model/serialization.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/kaminari-0.15.1/spec/fake_app/data_mapper/models.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/kaminari-0.15.1/spec/fake_app/active_record/models.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/devise-3.0.4/test/models_test.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/devise-3.0.4/lib/devise/models.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/acts-as-taggable-on-2.4.1/spec/models.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/lib/static_model.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/vendor/assets/javascripts/ace-src-noconflict/mode-c9search.js",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/vendor/assets/javascripts/ace-src-noconflict/mode-diff.js",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/tmp/miniprofiler/mp_timers_osdrht436iktedfj0bni",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/MAINTENANCE.md",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/controllers/servers_controller.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/Gemfile",
+		"/home/gufron/public_html/email/app/controllers/ListAccountController.php",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/spec/controllers/commit_controller_spec.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/spec/spec_helper.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/layouts/nav/_dashboard.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/layouts/application.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/db/migrate/20140215082857_add_server_name.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/servers/_form.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/layouts/_page_title.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/servers/show.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/db/seeds.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/models/occupation.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/models/user.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/features/snippets/user_snippets.feature",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/models/note.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/spec/models/note_spec.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/mailers/emails/notes.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/helpers/notes_helper.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/lib/api/notes.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/doc/api/notes.md",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/erubis-2.7.0/doc-api/classes/Erubis/NoTextEnhancer.html",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/observers/note_observer.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/nohup.out",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/spec/models/server_spec.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/spec/factories/servers.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/spec/controllers/servers_controller_spec.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/layouts/_public_head_panel.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/layouts/_init_auto_complete.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/layouts/_head_panel.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/layouts/_head.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/layouts/_google_analytics.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/layouts/_flash.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/layouts/_broadcast.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/actionpack-4.0.2/lib/abstract_controller/layouts.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/assets/stylesheets/main/layout.scss",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/LICENSE",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/assets/javascripts/application.js",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/config/application.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/db/migrate/20130110172407_add_public_to_project.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/features/dashboard/archived_projects.feature",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/controllers/dashboard_controller.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/gitlab.sublime-project",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/config/routes.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/controllers/admin/dashboard_controller.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/admin/dashboard/index.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/features/admin/active_tab.feature",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/features/steps/shared/admin.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/db/migrate/20130909132950_add_description_to_merge_request.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/errors/access_denied.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/features/dashboard/dashboard.feature",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/spec/features/security/dashboard_access_spec.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/config/initializers/devise_async.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/config/database.yml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/controllers/projects_controller.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/observers/project_activity_cache_observer.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/models/project_hook.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/models/project.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/doc/api/projects.md",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/Procfile",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/workers/post_receive.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/features/admin/projects.feature",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/coverage/index.html",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/help/index.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/lib/gitlab/inline_diff.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/ice_nine-0.10.0/ice_nine.gemspec",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/activemodel-4.0.2/lib/active_model/conversion.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/helpers/servers_helper.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/spec/requests/servers_spec.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/assets/javascripts/servers.js.coffee",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/assets/stylesheets/servers.css.scss",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/spec/helpers/servers_helper_spec.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/spec/routing/servers_routing_spec.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/faraday-0.8.8/script/server",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/json-1.8.1/tools/server.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/capybara-2.1.0/lib/capybara/server.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/capybara-2.1.0/spec/server_spec.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/gitlab-grack-2.0.0.pre/lib/grack/server.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/jasmine-2.0.0.rc5/lib/jasmine/server.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/jasmine-2.0.0.rc5/spec/server_spec.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/oauth-0.4.7/lib/oauth/server.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/rack-1.5.2/lib/rack/server.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/capybara-2.1.0/lib/capybara.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/actionpack-4.0.2/lib/action_dispatch/middleware/templates/rescues/layout.erb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/bootstrap-sass-3.0.3.0/test/dummy/app/controllers/application_controller.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/activesupport-4.0.2/lib/active_support/deprecation/proxy_wrappers.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/observers/system_hook_observer.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/capybara-2.1.0/lib/capybara/spec/public/jquery-ui.js",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/actionpack-action_caching-1.1.0/gemfiles/Gemfile-edge",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/spec/support/api_helpers.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/jasmine-core-2.0.0.rc5/lib/jasmine-core/spec/performance/performance_test.js",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/rack-1.5.2/test/spec_etag.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/rack-1.5.2/test/spec_thin.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/spec/seed_project.tar.gz",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/db/migrate/20140215043805_create_servers.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/services/files/create_service.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/features/group/create_group.feature",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/app/views/notify/closed_merge_request_email.html.haml",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/sinatra-1.4.4/test/creole_test.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/coffee-rails-4.0.1/coffee-rails.gemspec",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/http_parser.rb-0.5.3/tasks/fixtures.rake",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/.bundle/ruby/2.0.0/gems/activerecord-deprecated_finders-1.0.3/test/find_in_batches_test.rb",
+		"/home/gufron/rails-app/cookbook-gitlab/home_git/gitlab/spec/factories.rb"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"D:\\works\\kominfo_website\\foto video galeri\\application",
+			"D:\\xampp\\htdocs\\whmcs\\templates\\beon.",
+			"D:\\xampp\\htdocs\\whmcs\\templates\\beon",
+			"<open folders>",
+			"D:\\xampp\\htdocs\\Magazinly"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"title",
+			"admin",
+			"title",
+			"rest-client",
+			"resource",
+			"levels\":",
+			"    ",
+			"is_active",
+			"coupon",
+			"['beon']",
+			"index",
+			"code",
+			"index",
+			"unlimited-hosting",
+			"my",
+			"affiliates",
+			"Affiliate",
+			"Beon GREEN",
+			"Beon RED",
+			"Jagoan Web Lookup",
+			"//",
+			"Jagoan Web Smart",
+			"Jagoan Store Freedom",
+			"Jagoan Store Look Up",
+			"Jagoan Store Smart",
+			"VPS Mail Mercury",
+			"VPS SSD",
+			"Mail Lofty",
+			"Mail LoftyM",
+			"Mail Bugsy",
+			"Mail Valiant",
+			"Sonic Ultra",
+			"Sonic Super",
+			"Sonic Teen",
+			"Sonic Little",
+			"Hulk Super",
+			"Hulk Big",
+			"Hulk Young",
+			"VPS SSD Hulk Baby",
+			"JH Reseller Advance",
+			"Reseller Advance",
+			"Reseller Medium",
+			"Reseller Basic",
+			"Diamond",
+			"Ruby",
+			"Titanium",
+			"Platinum",
+			"Gold",
+			"Silver",
+			"Bronze",
+			"Copper",
+			",",
+			"is_active",
+			"select_query",
+			"folders",
+			"BASEPATH",
+			"addonexample",
+			"ppn",
+			"beon_delight",
+			"proxima",
+			"#header",
+			"../images/beon_image",
+			"invoice",
+			"typeof beon_",
+			"Pesan",
+			"btn_order",
+			"steps",
+			"beon_delight",
+			"steps",
+			"delight",
+			"discounts",
+			"groupid",
+			"subtotal",
+			"groups",
+			"client",
+			"discount",
+			"process.php",
+			"validate_cou",
+			"discounts",
+			"discount",
+			"groupid",
+			"get_packages",
+			"unlimited",
+			"groupid",
+			"is_register",
+			"login",
+			"include",
+			"addonexample",
+			"$clientsdetails",
+			"coupon",
+			"calculate",
+			"display",
+			"discounts",
+			"change_product",
+			"coupon",
+			"affiliate",
+			".btn",
+			"btn",
+			"btn_affiliate",
+			"affiliate",
+			"btn_",
+			"Addon",
+			"server cannot find the article :(.",
+			"base_url(",
+			"base_url",
+			"static",
+			"upload",
+			"getService",
+			"requestRequestToken",
+			"getService",
+			"console.log",
+			"read",
+			"reply",
+			"table",
+			"upload",
+			"reset",
+			"calculate",
+			"change_product",
+			"discounts",
+			".length",
+			"BLUE UNLIMITED",
+			"Domain",
+			"Daftar Domain",
+			"loginpage",
+			"Domain",
+			"chosen.gid",
+			"-1",
+			"radio pull-left"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"levels\"=>",
+			"\\t",
+			"['local_whm']",
+			"['local']",
+			"Beon BLUE",
+			"Beon GREEN",
+			"Beon RED",
+			"#",
+			"Jagoan Web Lookup",
+			"Jagoan Web Smart",
+			"Jagoan Store Freedom",
+			"Jagoan Store Look Up",
+			"Jagoan Store Smart",
+			"VPS",
+			"Mail Mercury",
+			"Mail Lofty",
+			"Mail Bugsy",
+			"Mail Valiant",
+			"Sonic Ultra",
+			"Sonic Super",
+			"Sonic Teen",
+			"Sonic Little",
+			"Hulk Super",
+			"Hulk Big",
+			"VPS SSD Hulk Young",
+			"VPS SSD Hulk Baby",
+			"VPS Hulk Baby",
+			"Hulk Baby",
+			"Reseller Advance",
+			"Reseller Medium",
+			"Reseller Basic",
+			"Diamond",
+			"Ruby",
+			"Titanium",
+			"Platinum",
+			"Gold",
+			"Silver",
+			"Bronze",
+			"|\\",
+			"full_query",
+			"beonholic",
+			"#headers",
+			"//beon.co.id/images/beon_image",
+			"wholesale",
+			"{ clientsdetails",
+			"{{ clientsdetails",
+			"site_url(",
+			"radio",
+			"#headers",
+			"chosen.gid=='-1'||chosen.gid=='-2'",
+			"chosen.gid!='-1'&&chosen.gid!='-2'",
+			"",
+			" \\1",
+			"|noFractionCurrency",
+			"name=\"order[\\1]\"",
+			"name=\"order[phone]\"",
+			"templates/{$template}/",
+			" col-sm-8",
+			"col-sm-4",
+			"<input class=\"form-control\"",
+			"controls col-sm-9",
+			"col-sm-3",
+			"form-group",
+			" col-sm-9",
+			"col-sm-3",
+			"<input class=\"form-control\"",
+			"controls col-sm-10",
+			"col-sm-2",
+			"form-group",
+			"<div>\n    <ul class=\"pagination\">",
+			"form-group",
+			"templates/beon/",
+			"beon/process.php?action=\\1",
+			"=\"glyphicon glyphicon-",
+			"ul class=\"nav navbar-nav\"",
+			"('',",
+			", 5,",
+			"follow_up"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 158.0
+	},
+	"project": "laravel-whmcs.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"server.r",
+				"app/models/server.rb"
+			],
+			[
+				"models/",
+				"app/models/broadcast_message.rb"
+			],
+			[
+				"servers",
+				"app/controllers/servers_controller.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"",
+				"app/controllers/servers_controller.rb"
+			],
+			[
+				"_form",
+				"app/views/servers/_form.html.haml"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"model/note",
+				"app/models/note.rb"
+			],
+			[
+				"serv",
+				"app/models/server.rb"
+			],
+			[
+				"servers_con",
+				"app/controllers/servers_controller.rb"
+			],
+			[
+				"ser",
+				"app/models/server.rb"
+			],
+			[
+				"server",
+				"app/models/server.rb"
+			],
+			[
+				"layouts/",
+				"app/views/layouts/_page_title.html.haml"
+			],
+			[
+				"application.js",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"admin/dash",
+				"app/controllers/admin/dashboard_controller.rb"
+			],
+			[
+				"dashboard_c",
+				"app/controllers/dashboard_controller.rb"
+			],
+			[
+				"project_contr",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"p",
+				"features/admin/projects.feature"
+			],
+			[
+				"servers/inde",
+				"app/views/servers/index.html.haml"
+			],
+			[
+				"show",
+				"app/views/servers/show.html.haml"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"ge",
+				".bundle/ruby/2.0.0/gems/grape-entity-0.3.0/lib/grape-entity.rb"
+			],
+			[
+				"spec_",
+				"spec/spec_helper.rb"
+			],
+			[
+				"createserver",
+				"db/migrate/20140215043805_create_servers.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"occu",
+				"app/models/occupation.rb"
+			],
+			[
+				"addoc",
+				"db/migrate/20140215031926_add_occupation.rb"
+			],
+			[
+				"layout",
+				"app/views/layouts/bootstrap.blade.php"
+			],
+			[
+				"base",
+				"app/controllers/BaseController.php"
+			],
+			[
+				"list",
+				"app/controllers/ListAccountController.php"
+			],
+			[
+				"list.ph",
+				"app/views/account/list.blade.php"
+			],
+			[
+				"c",
+				"composer.json"
+			],
+			[
+				"lis",
+				"vendor/leafo/scssphp/tests/outputs/list.css"
+			],
+			[
+				"route",
+				"app/routes.php"
+			],
+			[
+				"comp",
+				"composer.json"
+			],
+			[
+				"rout",
+				"app/routes.php"
+			],
+			[
+				"grab",
+				"app/controllers/GrabController.php"
+			],
+			[
+				"login.t",
+				"templates\\beon\\login.tpl"
+			],
+			[
+				"pwrese",
+				"templates\\beon\\pwreset.tpl"
+			],
+			[
+				"pagehead",
+				"templates\\beon\\pageheader.tpl"
+			],
+			[
+				"order.",
+				"templates\\beon\\js\\order.js"
+			],
+			[
+				"jumb",
+				"templates\\beon\\css\\jumbotron.css"
+			],
+			[
+				"header",
+				"templates\\beon\\header.tpl"
+			],
+			[
+				"footer",
+				"templates\\beon\\footer.tpl"
+			],
+			[
+				"order.j",
+				"templates\\beon\\js\\order.js"
+			],
+			[
+				"viewinvoice.t",
+				"templates\\beon\\viewinvoice.tpl"
+			],
+			[
+				"hoo",
+				"hooks.php"
+			],
+			[
+				"hook",
+				"hooks.php"
+			],
+			[
+				"client",
+				"clienthome.tpl"
+			],
+			[
+				"create",
+				"holic\\createpromo.tpl"
+			],
+			[
+				"or",
+				"D:\\xampp\\htdocs\\whmcs\\templates\\beon\\js\\order.js"
+			],
+			[
+				"beon",
+				"beonholic.php"
+			],
+			[
+				"holicc",
+				"app\\HolicClient.php"
+			],
+			[
+				"order",
+				"D:\\xampp\\htdocs\\whmcs\\templates\\beon\\js\\order.js"
+			],
+			[
+				"holiccl",
+				"app\\HolicClient.php"
+			],
+			[
+				"holic",
+				"app\\HolicClient.php"
+			],
+			[
+				"ftp",
+				"holic\\ftpsync.settings"
+			],
+			[
+				"holic.php",
+				"app\\holic.php"
+			],
+			[
+				"ho",
+				"hooks.php"
+			],
+			[
+				"be",
+				"beonholic.php"
+			],
+			[
+				"beonholic.tpl",
+				"D:\\xampp\\htdocs\\whmcs\\modules\\addons\\beonholic\\clienthome.tpl"
+			],
+			[
+				"cli",
+				"D:\\xampp\\htdocs\\whmcs\\modules\\addons\\beonholic\\clienthome.tpl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"git",
+				"~/rails-app/grabber/grabber.sublime-project"
+			],
+			[
+				"gra",
+				"~/rails-app/grabber/grabber.sublime-project"
+			],
+			[
+				"",
+				"~/public_html/email/mail-broadcaster.sublime-project"
+			],
+			[
+				"beonho",
+				"D:\\xampp\\htdocs\\whmcs\\modules\\addons\\beonholic\\beonholic.sublime-project"
+			],
+			[
+				"whmcs",
+				"D:\\xampp\\htdocs\\whmcs\\whmcs.sublime-project"
+			],
+			[
+				"beon",
+				"D:\\xampp\\htdocs\\whmcs\\modules\\addons\\beonholic\\beonholic.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
