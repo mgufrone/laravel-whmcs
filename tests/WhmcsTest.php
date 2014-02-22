@@ -7,19 +7,23 @@ class WhmcsTest extends TestCase {
 	 *
 	 * @return void
 	 */
+	public function setUp()
+	{
+		parent::setUp();
+	}
 	public function testConfigurations()
 	{
 		$response = Whmcs::getHost();
 		$this->assertTrue(is_string($response));
 		$this->assertTrue(is_string(Whmcs::getUsername()));
 		$this->assertTrue(is_string(Whmcs::getPassword()));
-		$this->assertEquals('http://localhost/whmcs',(Whmcs::getHost()));
+		$this->assertEquals(\Config::get('whmcs-api::host'),(Whmcs::getHost()));
 	}
 
 	public function testCallApi()
 	{
 		$call = Whmcs::getproducts();
-		
+		// print_r($call);
 		$this->assertTrue($call->isSuccess());
 		$this->assertTrue($call['products']!='');
 		$this->assertTrue(is_array($call['products']));
@@ -40,6 +44,6 @@ class WhmcsTest extends TestCase {
 
 	public function testDomainPricing()
 	{
-		Whmcs::domain();
+		// Whmcs::domain();
 	}
 }

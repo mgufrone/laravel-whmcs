@@ -1,0 +1,17 @@
+<?php
+
+return array(
+	'host'=>'https://my.beon.co.id',
+	'username'=>'api',
+	'password'=>'28ER67fi',
+	'db'=>array(
+		'driver'    => 'mysql',
+		'host'      => 'my.beon.co.id',
+		'database'  => 'mybeon_db',
+		'username'  => 'mybeon_gufy',
+		'password'  => '28ER67fi',
+		'charset'   => 'utf8',
+		'collation' => 'utf8_unicode_ci',
+		'prefix'    => '',
+	)
+);

@@ -11,4 +11,8 @@ class TestCase extends Orchestra\Testbench\TestCase
             'Whmcs' => 'Beon\Whmcs\Facades\Whmcs',
         );
     }
+    public function testStart()
+    {
+        $this->assertEquals('beon/whmcs','beon/whmcs');
+    }
 }

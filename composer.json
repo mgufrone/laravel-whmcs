@@ -26,5 +26,9 @@
             "Beon\\Whmcs\\": "src/"
         }
     },
+    "scripts":
+    {
+        "post-install-cmd":"Beon\\Whmcs\\Installer::run"
+    },
     "minimum-stability": "stable"
 }

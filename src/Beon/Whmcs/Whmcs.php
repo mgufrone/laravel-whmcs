@@ -34,10 +34,8 @@ class Whmcs
 		$data['responsetype'] = 'json';
 		$client = new Client($host);
 		$request = $client->post('includes/api.php',array(),$data);
-		$response = $request->send();
-		$result_content = $response->getBody();
-
-		return new WhmcsResponse($result_content);
+			$response = $request->send();
+		return new WhmcsResponse(json_encode($response->json()));
 	}
 	public function set($key, $value)
 	{
