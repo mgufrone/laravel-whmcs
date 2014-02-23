@@ -50,7 +50,7 @@ class Whmcs
 			$pricing = $domain->pricing();
 			foreach($pricing as $price)
 			{
-				$domain->attributes['prices'][$price->type][$price->currencies->code] = array(
+				$domain->prices[$price->type][$price->currencies->code] = array(
 					'annually'=>$price->msetupfee,
 					'biennially'=>$price->qsetupfee,
 					'triennially'=>$price->ssetupfee,
