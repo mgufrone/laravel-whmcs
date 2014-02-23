@@ -5,6 +5,7 @@ class Response implements \ArrayAccess
 	private $result;
 	private $message;
 	private $response;
+	private $raw;
 	public function __construct($response)
 	{
 		$this->evaluate($response);
@@ -13,7 +14,7 @@ class Response implements \ArrayAccess
 	private function evaluate($response)
 	{
 		$response = json_decode($response);
-
+		$this->raw = $response;
 		$this->result = $response->result;
 		if(isset($response->message))
 		$this->message = $response->message;
@@ -31,6 +32,10 @@ class Response implements \ArrayAccess
 	public function getMessage()
 	{
 		return $this->message;
+	}
+	public function getRaw()
+	{
+		return $this->raw;
 	}
 	public function getResponse()
 	{
