@@ -13,6 +13,7 @@ class Response implements \ArrayAccess
 	private function evaluate($response)
 	{
 		$response = json_decode($response);
+
 		$this->result = $response->result;
 		if(isset($response->message))
 		$this->message = $response->message;
@@ -30,6 +31,10 @@ class Response implements \ArrayAccess
 	public function getMessage()
 	{
 		return $this->message;
+	}
+	public function getResponse()
+	{
+		return $this->response;
 	}
 	public function offsetSet($offset, $value) {
         if (is_null($offset)) {
